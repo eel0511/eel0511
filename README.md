@@ -4,5 +4,7 @@
 |  **Research activities** |  2020. 01 ~ 2020. 03  |   Undergraduate Research Students                                |  Chungnam Univ. Applied Scientific Calculation Lab |
 |  **Research activities** |  2020. 04 ~ 2020. 12  |   Undergraduate Research Students                                |  Chungnam Univ. Bio-AI Convergence Research Center |
 |  **SSAFY**               |  2021. 6.28 ~ ING     |   Mobile Track                                                   |  Samsung                                           |
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)
+
+
 [![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511)](https://github.com/eel0511/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)

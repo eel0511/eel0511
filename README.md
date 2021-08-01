@@ -1,5 +1,8 @@
 ##### :wave: Hello My name is Suhyeong Lee #####
 ##### My major is **Science and Engineering** I have project experience using Java & Android, python, SQL languages #####
+
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)  ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)    
+
 ---
 ### :purple_heart: Career
 ---

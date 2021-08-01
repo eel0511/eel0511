@@ -2,7 +2,6 @@
 ##### My major is **Science and Engineering** I have project experience using Java & Android, python, SQL languages #####
 ---
 ### :purple_heart: Career
----
 <div align=center>
 
 | TYPE | DATE | CONTENTS | ORGANIZATION |
@@ -14,5 +13,5 @@
 </div>
 
 ---
-[![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511)](https://github.com/eel0511/github-readme-stats)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)
+[![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511)](https://github.com/eel0511/github-readme-stats)

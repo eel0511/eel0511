@@ -2,6 +2,7 @@
 ##### My major is **Science and Engineering** I have project experience using Java & Android, python, SQL languages #####
 ---
 ### :purple_heart: Career
+---
 <div align=center>
 
 | TYPE | DATE | CONTENTS | ORGANIZATION |
@@ -13,5 +14,14 @@
 </div>
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)
+## :purple_heart: Certification ##
+<div align=center>
+    
+| TYPE | DATE | ORGANIZATION | STATUS |
+| :------ | :------: | :------: | :----: |
+| SQL Developer | 2019.12.31 | KOREA Data Agency | Final Pass |
+| Engineer Information Processing | 2021.06.02 | Ministry of Science and Technology Information and Communication | Final Pass |
+
+---
 [![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511)](https://github.com/eel0511/github-readme-stats)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)

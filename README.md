@@ -1,5 +1,5 @@
-|         **Type**         |        **Date**        |                             **Contents**                            |                   **Organization**                   |
-|:------------------------:|:----------------------:|:-------------------------------------------------------------------:|:----------------------------------------------------:|
+| TYPE | DATE | CONTENTS | ORGANIZATION |
+| :------: | :------: | ------ | ------ |
 |       **Education**      |   2015. 03 ~ 2021. 08  |   Department of Department of Computer    Science and Engineering   |  Chungnam University                                 |
 |  **Research activities** |   2020. 01 ~ 2020. 03  |   Undergraduate Research Students                                   |  Chungnam Univ.   Applied Scientific Calculation Lab |
 |  **Research activities** |   2020. 04 ~ 2020. 12  |   Undergraduate Research Students                                   |  Chungnam Univ.   Bio-AI Convergence Research Center |

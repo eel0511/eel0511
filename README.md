@@ -21,7 +21,7 @@
 <div align=center>
     
 | TYPE | DATE | ORGANIZATION | STATUS |
-| :------ | :------: | :------: | :----: |
+| :------: | :------: | :------: | :----: |
 | SQL Developer | 2019.12.31 | KOREA Data Agency | Final Pass |
 | Engineer Information Processing | 2021.06.02 | Ministry of Science and Technology Information and Communication | Final Pass |
 

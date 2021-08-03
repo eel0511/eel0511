@@ -26,5 +26,5 @@
 | Engineer Information Processing | 2021.06.02 | Ministry of Science and Technology Information and Communication | Final Pass |
 
 ---
-[![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![suhyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=eel0511)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eel0511)](https://solved.ac/eel0511/)

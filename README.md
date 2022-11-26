@@ -12,7 +12,8 @@
 |       **:mortar_board:Education**      |   2015.03~2021.08  |   Department of Computer    Science and Engineering   |  Chungnam University                                 |
 |  **Research activities** |   2020.01~2020.03  |   Undergraduate Research Students                                   |  Chungnam Univ.   Applied Scientific Calculation Lab |
 |  **Research activities** |   2020.04~2020.12  |   Undergraduate Research Students                                   |  Chungnam Univ.   Bio-AI Convergence Research Center |
-|         **SSAFY**        |     2021.6.28 ~ING   |   Mobile Track  |  Samsung |
+|         **SSAFY**        |     2021.06.28 ~2022.05.24   |   Mobile Track  |  Samsung |
+|         *HYUNDAI IT&E**        |     2022.05.25 ~ ING   |     |   |
 </div>
 
 ---
